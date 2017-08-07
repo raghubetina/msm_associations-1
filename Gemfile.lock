@@ -6,7 +6,7 @@ GIT
 
 GIT
   remote: git://github.com/firstdraft/grade_runner.git
-  revision: 1e212e50b3fd46ff5b22783d19e0e1aac7928915
+  revision: b3664d1fe94177cd5c2943b9b3b08e4c81343e71
   specs:
     grade_runner (0.0.1)
 
